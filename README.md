@@ -45,7 +45,8 @@ int main(void)
 	return 0; }
 ```
 
-##OUTPUT
+
+## OUTPUT
 
 <img width="1031" height="78" alt="image" src="https://github.com/user-attachments/assets/95100e01-17e2-443c-9d6a-5536316c982e" />
 
@@ -76,7 +77,7 @@ int main() {
 }
 ```
 
-##OUTPUT
+## OUTPUT
 
 <img width="1029" height="72" alt="image" src="https://github.com/user-attachments/assets/7d6fc475-d66f-47b3-a908-b9d945a3c3be" />
 
@@ -110,7 +111,7 @@ int main() {
     return 0;
 }
 ```
-##output
+## output
 <img width="1031" height="237" alt="image" src="https://github.com/user-attachments/assets/09ed7a3a-cdc0-4e94-8d83-6a9e9d6b3b56" />
 
 # RESULT:
